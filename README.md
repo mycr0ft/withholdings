@@ -27,7 +27,7 @@ and the amount per their paycheck.
 96356.28 (17394.637199999997, 1449.5530999999999)
 ```
 
-## The W-4 class`
+## The W-4 class
 
 The following options are available to represent the Form W-4: 
 ```py
